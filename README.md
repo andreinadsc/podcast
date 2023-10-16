@@ -2,7 +2,7 @@
 <br />
 <div align='center'>
 
-  <img src='/android-chrome-192x192' alt='Logo' width='80' height='80' />
+  <img src='./public/android-chrome-192x192.png' alt='Logo' width='80' height='80' />
   <h3 align='center'>Podcas Application using React JS</h3>
   <p align='center'>
     <br />
@@ -33,7 +33,7 @@
 
 ## About The Project
 
-![screenshot](/screenshot-1.png)
+![screenshot](./public/screenshot-1.png)
 Podcast App where you can search and listen to more than 500,000 podcasts for free.
 
 <p align='right'>(<a href='#readme-top'>back to top</a>)</p>
@@ -60,10 +60,10 @@ Podcast App application that uses the iTunes search API to allow you to search a
 5. Or you could run `npm run build` follow by `npm run serve`
 6. Now app is fully configured and you can start using this app :+1:
 
-![screenshot](/screenshot-1.png)
-![screenshot](/screenshot-2.png)
-![screenshot](/screenshot-3.png)
-![screenshot](/screenshot-4.png)
+![screenshot](./public/screenshot-1.png)
+![screenshot](./public/screenshot-2.png)
+![screenshot](./public/screenshot-3.png)
+![screenshot](./public/screenshot-4.png)
 
 
 ## Contact
