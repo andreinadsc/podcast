@@ -7,6 +7,7 @@ const Progress = styled('input')(({ theme }) => ({
     WebkitAppearance: 'none',
     MozAppearance: 'none',
     cursor: 'pointer',
+    width: '420px',
     background: 'transparent',
     '&:focus': {
         outline: 'none'
@@ -45,13 +46,11 @@ const Progress = styled('input')(({ theme }) => ({
         transform: 'scaleX(var(--progress-width))',
         zIndex: 3
     },
-
     '&:after': {
         transform: 'scaleX(var(--buffered-width))',
         transformOrigin: 'left',
         zIndex: 2
     }
-
 }));
 
 export default function AudioProgressBar(props) {
