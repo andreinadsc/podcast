@@ -6,7 +6,7 @@
   <h3 align='center'>Podcas Application using React JS</h3>
   <p align='center'>
     <br />
-    <a href=''>View Demo</a>
+    <a href='https://podcasts-itunes-app.netlify.app/'>View Demo</a>
     ·
     <a href='https://github.com/andreinadsc/podcast/issues'>Report Bug</a>
   </p>
@@ -33,8 +33,9 @@
 
 ## About The Project
 
-![screenshot](./src/images/screenshot-1.png)
-Podcast app
+![screenshot](/screenshot-1.png)
+Podcast App where you can search and listen to more than 500,000 podcasts for free.
+
 <p align='right'>(<a href='#readme-top'>back to top</a>)</p>
 
 ## Built With
@@ -42,16 +43,14 @@ Podcast app
 - ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
 - ![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/ccs-000000?style=for-the-badge&logo=css3&logoColor=white)
+- ![MUI](https://img.shields.io/badge/mui-000000?style=for-the-badge&logo=mui&logoColor=white)
+- ![iTunes](https://img.shields.io/badge/itunes-000000?style=for-the-badge&logo=itunes&logoColor=white)
 
 <p align='right'>(<a href='#readme-top'>back to top</a>)</p>
 
-## :warning: Before you start
-
-1. Make sure [Git](https://git-scm.com 'Git') and [NodeJS](https://nodejs.org 'NodeJS') are installed
-
 ## Getting Started
 
-Podcast
+Podcast App application that uses the iTunes search API to allow you to search and play more than 500,000 podcasts. More info here: [iTunes API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1)
 
 ### How to Use
 1. Clone this **repository** to your local computer.
@@ -61,9 +60,11 @@ Podcast
 5. Or you could run `npm run build` follow by `npm run serve`
 6. Now app is fully configured and you can start using this app :+1:
 
-![screenshot](./src/images/screenshot-1.png)
-![screenshot](./src/images/screenshot-2.png)
-![screenshot](./src/images/screenshot-3.png)
+![screenshot](/screenshot-1.png)
+![screenshot](/screenshot-2.png)
+![screenshot](/screenshot-3.png)
+![screenshot](/screenshot-4.png)
+
 
 ## Contact
 María Andreina Da Silva - andreinadsc@gmail.com
