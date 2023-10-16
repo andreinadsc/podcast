@@ -6,7 +6,7 @@
   <h3 align='center'>Podcas Application using React JS</h3>
   <p align='center'>
     <br />
-    <a href=''>View Demo</a>
+    <a href='https://podcasts-itunes-app.netlify.app/'>View Demo</a>
     ·
     <a href='https://github.com/andreinadsc/podcast/issues'>Report Bug</a>
   </p>
